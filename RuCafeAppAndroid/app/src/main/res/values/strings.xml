@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RuCafe</string>
+    <string name="donut_page">Order Donuts</string>
+    <string name="coffee_page">Order Coffee</string>
+    <string name="order_page">Current Order</string>
+    <string name="history_page">Store Orders</string>
+    <string name="donut_button">Donut Button</string>
+    <string name="coffee_button">Order Coffee</string>
+    <string name="store_order_button">All Orders</string>
+    <string name="current_order_button">Current Order</string>
+    <string name="donut_picture">Picture of a Donut</string>
+    <string name="coffee_picture">Picture of a Cup of Coffee</string>
+    <string name="add_to_order">Add To Order</string>
+    <string name="cream">Cream</string>
+    <string name="caramel">Caramel</string>
+    <string name="milk">Milk</string>
+    <string name="syrup">Syrup</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="no_flavor_error">No Flavor Selected. Please Select Flavor</string>
+    <string name="select_amount">Please Select Amount to Order</string>
+    <string name="donut_confirmation">Donut Ordered</string>
+    <string name="donuts_confirmation">Donuts Ordered</string>
+    <string name="coffee_confirmation">Coffee Ordered</string>
+    <string name="coffees_confirmation">Coffees Ordered</string>
+    <string name="order_confirmation">Order Placed</string>
+    <string name="cancel_confirmation">Order Cancelled</string>
+    <string name="amount_prompt">Please Select Amount to Order:</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="tax">Tax:</string>
+    <string name="total">Total Cost:</string>
+    <string name="confirm">Confirm Order</string>
+    <string name="cancel">Cancel Selection</string>
+    <string name="select_item">Please Select Item to Cancel</string>
+    <string name="select_order">Please Select Order to Cancel</string>
+    <string name="store_orders_image">Store Orders Image</string>
+    <string name="cancel_order">Cancel Order</string>
+</resources>
